@@ -1,0 +1,13 @@
+ the one-up photo viewer that opens the details pane.",
+  "ouAddFavorite": "Add to favorites",
+  "_ouAddFavorite.comment": "Tooltip on the favorite button in the one-up viewer toolbar when the photo is not yet favorited.",
+  "ouCopy": "Copy",
+  "_ouCopy.comment": "Tooltip and overflow menu label for the copy-to-clipboard action in the one-up viewer.",
+  "ouDelete": "Delete",
+  "_ouDelete.comment": "Tooltip on the delete button in the one-up photo viewer toolbar, and label on the delete confirm button.",
+  "ouEditorIframeTitle": "Photo editor",
+  "_ouEditorIframeTitle.comment": "Accessible name (title attribute) on the photo-editor iframe in the one-up viewer. Announced by screen readers as the iframe's purpose when focus enters it.",
+  "ouFavorite": "Favorite",
+  "_ouFavorite.comment": "Tooltip on the favorite button in the one-up photo viewer toolbar.",
+  "ouLivePhotoBadge": "LIVE",
+  "_ouLivePhotoBadge.comment": "Badge text overlaid on a photo in the one-up viewer
